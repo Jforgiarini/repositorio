@@ -1,2 +1,2 @@
-# repositorio
+# repository
 repositorio de prueba
